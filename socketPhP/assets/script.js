@@ -1,5 +1,5 @@
 // var conn = new WebSocket('ws://localhost:8080');
-var conn = new WebSocket('ws://wisquimas.ngrok.io:8080');
+var conn = new WebSocket('ws://wisquimas.ngrok.io');
 
 var contenedor = $('#info');
 console.log(conn);
